@@ -1,0 +1,170 @@
+# 11111theegg.github.io
+recipes easy
+<!DOCTYPE html>
+<!--These are quick,easy,recipes to do in 5 minutes!-->
+
+
+
+
+
+
+<html>
+    <head>
+        <title>KK Recipe Book!</title>
+        <meta charset="utf-8">
+        <style>
+        body {
+        background-color:rgb(105, 184, 177);
+        }
+        h2 {
+            color:rgb(105, 7, 120);
+            font-family:Brush Script MT, Brush Script Std,cursive;
+        }
+        p {
+            background-color:lightpink;
+            font-family:fantasy;
+            font-stretch: ultra-expanded;
+        }
+        h1 {
+            font: italic 50px cursive;
+        }
+        </style>
+    </head>
+    <body>
+       
+        <h1 id="back-top">KK's Recipe Book!</h1>
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/cute/Heart.png" width="50">
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="#recipe-nutella">Nutella</a></li>
+            <li><a href="#recipe-avocadoToast">Avocado Toast</a></li>
+                        <li><a href="#recipe-fruitSmoothie">Fruit Smoothie</a></li>
+        </ol>
+        
+<!--Nutella Recipe-->
+        <h2 id="recipe-nutella">Nutella</h2>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Nutella_bread_12-2015.jpg" alt="Homemade nutella spread across bread"width="234">
+        <ul>
+            <li>Time: 5</li>
+            <li>Serves: 1</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <th><a href="https://shop.hersheys.com/">Hershey's Kiss</a>
+               
+                    <th>1-2 kisses</th>
+                    </tr>
+                       <tr>
+                    <th><a href="https://www.mms.com/en-us/?gclid=Cj0KCQiAq5meBhCyARIsAJrtdr5vRZ7-M90WJmtTQZdJiVU4FCXRvfvald9ov6mmRTKrAiupI8Wh4-EaAk48EALw_wcB&gclsrc=aw.ds">M&M's</a>
+               
+                    <th>1 fun size pack</th>
+                    </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Melt ingredients in microwave for 30 seconds.<br>
+        <strong>Step 2:</strong> Mix ingredients with spoon<br>
+        <strong>Step 3:</strong> Enjoy with bread
+</p>
+
+
+
+
+
+
+
+<!--Avocado Toast recipe--> 
+        <h2 id="recipe-avocadoToast">Avocado Toast</h2>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Avocado_toast_at_Voyager_Espresso_%2833134505776%29.jpg"alt="mashed avocado on bread" width="234">
+        <ul>
+            <li>Time: 5</li>
+            <li>Serves: 1</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <th><a href="https://www.walmart.com/browse/food/avocados/976759_976793_9756351_2098775">Avocado</a>
+               
+                    <th>1 small or medium size</th>
+                    </tr>
+                       <tr>
+                    <th><a href="https://www.walmart.com/tp/bread">Toast/Bread</a>
+               
+                    <th>1 slice</th>
+                    </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Blend or mash avocado.<br>
+        <strong>Step 2:</strong> Spread mashed avocado on bread.<br>
+        <strong>Step 3:</strong> Add desired toppings, and enjoy!
+</p>
+
+
+
+
+
+<!--Fruit smoothie-->
+        <h2 id="recipe-fruitSmoothie">Fruit Smoothie</h2>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2011.09_smoothie2.JPG/230px-2011.09_smoothie2.JPG"alt="Strawberry smoothie"width="234">
+        <ul>
+            <li>Time: 5-10</li>
+            <li>Serves: 1-2</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <th><a href="https://www.walmart.com/ip/Fresh-Strawberries-1-lb/44391605">Strawberries</a>
+               
+                    <th>2-5</th>
+                    </tr>
+                       <tr>
+                    <th><a href="https://www.walmart.com/browse/food/fresh-fruits/976759_976793_9756351">Fruit of your choice(optional)</a>
+               
+                    <th>Quantity of your choice</th>
+                    </tr>
+                    <tr>
+                    <th><a href="https://www.walmart.com/ip/Bananas-each/44390948">Banana</a>
+               
+                    <th>1</th>
+                    </tr>
+                            <tr>
+                    <th><a href="https://www.walmart.com/ip/Reddy-Ice-Premium-Packaged-Ice-10-lbs/44391405">Ice</a>
+               
+                    <th>5 cubes</th>
+                    </tr>
+                    
+  
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Peel or unseed any fruits that need it.<br>
+        <strong>Step 2:</strong> Blend all of ingredients in a blender.<br>
+        <strong>Step 3:</strong> Enjoy (straw reccomended!)
+</p>
+    <p><a href="#back-top">BACK TO TOP</a></p>
+    </body>
+</html>
